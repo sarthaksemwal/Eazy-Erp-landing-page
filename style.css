@@ -78,7 +78,7 @@ transition: 0.5s;
     margin-top: 80px;
 }
 
-button{
+.button{
     height: 60px;
     width: 200px;
     padding: 15px 0;
@@ -181,3 +181,7 @@ button:hover{
     width: 80%;
     border-radius: 10px;
 }
+
+
+
+
